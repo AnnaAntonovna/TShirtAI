@@ -1,2 +1,2 @@
 # TShirtAI
-JS Mastery lesson
+Three.js + React.js + OpenAI
